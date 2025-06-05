@@ -1,0 +1,3 @@
+Brief Introduction About Myself
+Hello! My name is Lalisa Abebe Geleta. I am passionate about learning new technologies, especially in data, business, and AI.
+I am currently exploring GitHub as part of my journey into the world of software development and tech entrepreneurship. I believe version control is a key skill and I’m excited to collaborate on open-source projects in the future.
