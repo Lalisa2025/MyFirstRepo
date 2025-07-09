@@ -1,1 +1,1 @@
-Something I’ve learned in this course so far is how to use Git and GitHub for version control. I now understand how to create repositories, commit changes, and collaborate with others!
+What I have learned from this course is how to collaborate effectively using Git and GitHub, including forking, pull requests, and local syncing of repositories.
